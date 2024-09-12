@@ -1,0 +1,29 @@
+Stationary::
+		> Fragment
+		> Trigger
+		> Show all Members
+		> Register User
+		> Show all Customers
+		> Show Available Books
+		> Show Books in Price
+		> Check Book Availability
+		> Add new Book
+		> Update Availability Status
+		> insert members2 procedure
+		> insert members3 procedure
+		> Buy Books
+
+Library::
+		> Fragment
+		> Trigger
+		> Show all Members
+		> Register User
+		> Show all Readers
+		> Check Membership
+		> Renew Card
+		> Show Book Availability
+		> Update Status And Fine
+		> Borrow Book
+		> Show all Borrowers
+		> Update Library Book Status
+		> Return Book
