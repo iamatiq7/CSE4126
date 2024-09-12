@@ -1,0 +1,1 @@
+Select money.Id, moneyC.Name from money inner join moneyC on money.Id = MoneyC.ID;

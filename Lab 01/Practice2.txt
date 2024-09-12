@@ -1,0 +1,12 @@
+drop table moneyC;
+create table moneyC(Id number, Name Varchar2(10), Amount Number);
+
+insert into moneyC values(1001,'Atiqur',2500);
+insert into moneyC values(1002,'Nazrul',2200);
+insert into moneyC values(1003,'Monirul',2400);
+insert into moneyC values(1004,'Rifat',2150);
+insert into moneyC values(1005,'Faruk',2300);
+
+Select * from money;
+
+commit;

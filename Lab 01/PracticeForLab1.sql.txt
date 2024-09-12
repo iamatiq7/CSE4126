@@ -1,0 +1,21 @@
+clear screen;
+drop table money;
+create table money(Id number, Name Varchar2(10), Amount Number);
+
+insert into money values(1001,'Atiq',2500);
+insert into money values(1002,'Nazrul',2200);
+insert into money values(1003,'Monir',2400);
+insert into money values(1004,'Rifat',2150);
+insert into money values(1005,'Farid',2300);
+
+Select * from money;
+
+delete from money where Id=1005;
+
+Select * from money;
+
+Update money set name='Atiqur' where Id=1001;
+
+Select * from money;
+
+commit;
